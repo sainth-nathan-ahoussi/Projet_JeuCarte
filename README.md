@@ -14,5 +14,6 @@ Le jeu de carte magique est un jeu de cartes fantastique où les joueurs peuvent
   - Évolution des Cartes: Les cartes peuvent évoluer et devenir plus puissantes à mesure qu'elles sont utilisées dans les combats.
   
 - Contribution
+
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet en ajoutant de nouvelles fonctionnalités, en améliorant le code existant ou en corrigeant des bogues, n'hésitez pas à soumettre une demande de fusion (pull request).
 
